@@ -1,0 +1,194 @@
+[
+    {
+      "id": "ART-2022",
+      "name": "The Midnight Howlers",
+      "description": "An indie rock band hailing from Austin, Texas, known for their gritty guitar riffs and raw, emotional lyrics.",
+      "age": 30,
+      "isActive": true,
+      "birthDate": "1999-04-11",
+      "imageUrl": "https://example.com/images/artists/midnight-howlers.jpg",
+      "genre": "Indie Rock",
+      "instruments": ["Guitar", "Drums", "Bass"],
+      "recordLabel": {
+        "id": "LABEL-120",
+        "name": "Lone Star Records",
+        "labelLogoUrl": "https://example.com/images/labels/lone-star-logo.jpg",
+        "foundedYear": 2011,
+        "founder": "Elijah Reed",
+        "headquarters": "Austin, Texas"
+      }
+    },
+    {
+        "id": "ART-189",
+      "name": "The Midnight Howlers",
+      "description":"Maxine Rivers is a dynamic singer-songwriter whose music blends elements of folk, country, and Americana, resonating with heartfelt storytelling and soulful melodies.",
+      "age": 28,
+      "isActive": true,
+      "birthDate": "1993-12-10",
+      "imageUrl": "https://example.com/images/artists/maxine-rivers.jpg",
+      "genre": "Folk/Country/Americana",
+      "instruments": ["Vocals", "Guitar", "Banjo"],
+      "recordLabel": {
+        "id": "LABEL-138",
+        "name": "Heartland Records",
+        "labelLogoUrl": "https://example.com/images/artists/maxine-rivers.jpg",
+        "foundedYear": 2015,
+        "founder": "Emily Carter",
+        "headquarters": "Nashville, Tennessee"
+
+      }
+    },
+  {
+    "id": "ART-1147",
+    "name": "The Velvet Undergrounds",
+    "description": "Een alternatieve rockband gevestigd in New York City, bekend om hun experimentele geluid en poëtische teksten.",
+    "age": 19,
+    "isActive": true,
+    "birthDate": "2004-03-04",
+    "imageUrl": "https://example.com/images/artists/velvet-undergrounds.jpg",
+    "genre": "Alternatieve Rock",
+    "instruments": ["Gitaar", "Basgitaar", "Drums"],
+    "recordLabel": {
+      "id": "LABEL-152",
+      "name": "Underground Records",
+      "labelLogoUrl": "https://example.com/images/labels/underground-records-logo.jpg",
+      "foundedYear": 2012,
+      "founder": "Amelia Carter",
+      "headquarters": "New York City, New York"
+    }
+  },
+  {
+    "id": "ART-2323",
+    "name": "The Crimson Flames",
+    "description": "Een alternatieve rockband uit Los Angeles, Californië, bekend om hun energieke optredens en emotionele songteksten.",
+    "age": 20,
+    "isActive": true,
+    "birthDate": "2004-09-28",
+    "imageUrl": "https://example.com/images/artists/crimson-flames.jpg",
+    "genre": "Alternatieve Rock",
+    "instruments": ["Gitaar", "Drums", "Keyboard"],
+    "recordLabel": {
+      "id": "LABEL-178",
+      "name": "Golden Gate Records",
+      "labelLogoUrl": "https://example.com/images/labels/golden-gate-logo.jpg",
+      "foundedYear": 2018,
+      "founder": "Aiden Davis",
+      "headquarters": "San Francisco, Californië"
+    }
+},
+    {
+        "id": "ART-8475",       
+      "name": "The Wildfire Trio",               
+      "description": "Een dynamische indierockband uit Portland, Oregon, bekend om hun energieke optredens en meeslepende songteksten.",
+        "age": 32,
+        "isActive": true,
+        "birthDate": "1992-11-03",
+        "imageUrl": "https://example.com/images/artists/wildfire-trio.jpg",
+        "genre": "Indierock",                
+      "instruments": ["Gitaar", "Drums", "Bass"],                
+      "recordLabel": {
+          "id": "LABEL-201",
+          "name": "Pacific Sound Records",                 
+      "labelLogoUrl": "https://example.com/images/labels/pacific-sound-logo.jpg",
+      "foundedYear": 2015,
+      "founder": "Natalie Adams",
+      "headquarters": "Portland, Oregon"
+        }
+      },
+      {
+        "id": "ART-1024",
+        "name": "The Electric Rebels",
+        "description": "Een energieke indierockband afkomstig uit Seattle, Washington, bekend om hun krachtige gitaarriffs en meeslepende melodieën.",
+        "age": 35,
+        "isActive": true,
+        "birthDate": "1989-08-15", 
+        "imageUrl": "https://example.com/images/artists/electric-rebels.jpg",
+        "genre": "Indierock",
+        "instruments": ["Gitaar", "Drums", "Bass"], 
+        "recordLabel": {          
+        "id": "LABEL-232",        
+        "name": "Northwest Sounds",
+        "labelLogoUrl": "https://example.com/images/labels/northwest-sounds-logo.jpg",
+        "foundedYear": 2017,                   
+        "founder": "Oliver Thompson",
+          "headquarters": "Seattle, Washington"
+        }
+      },     
+      {
+        "id": "ART-1547",
+        "name": "The Thundering Wolves",
+        "description": "Een krachtige indierockband uit Portland, Oregon, bekend om hun intense gitaarriffs en emotionele teksten die de ziel raken.",
+        "age": 27,
+        "isActive": true,
+        "birthDate": "1997-02-20",
+        "imageUrl": "https://example.com/images/artists/thundering-wolves.jpg",
+        "genre": "Indierock",
+        "instruments": ["Gitaar", "Drums", "Bass"],
+        "recordLabel": {
+          "id": "LABEL-247",
+          "name": "Northwest Rock Records",
+          "labelLogoUrl": "https://example.com/images/labels/northwest-rock-logo.jpg",
+          "foundedYear": 2018,
+          "founder": "Emily Johnson",
+          "headquarters": "Portland, Oregon"
+        }
+      },
+      {
+        "id": "ART-0974",
+        "name": "The Desert Ravens",
+        "description": "Een indierockband afkomstig uit Phoenix, Arizona, bekend om hun rauwe gitaarriffs en meeslepende teksten die de woestijngeest vangen.",
+        "age": 66,
+        "isActive": true,
+        "birthDate": "1958-09-10",
+        "imageUrl": "https://example.com/images/artists/desert-ravens.jpg",
+        "genre": "Indierock",
+        "instruments": ["Gitaar", "Drums", "Bass"],
+        "recordLabel": {
+          "id": "LABEL-289",
+          "name": "Cactus Records",
+          "labelLogoUrl": "https://example.com/images/labels/cactus-records-logo.jpg",
+          "foundedYear": 2010,
+          "founder": "Samantha Miller",
+          "headquarters": "Phoenix, Arizona"
+        }
+      },        
+      {
+        "id": "ART-4576",
+        "name": "The Lone Riders",
+        "description": "Een indierockband afkomstig uit Dallas, Texas, bekend om hun pakkende gitaarriffs en oprechte, emotionele teksten die de ziel raken.",
+        "age": 54,
+        "isActive": true,
+        "birthDate": "1970-03-20",
+        "imageUrl": "https://example.com/images/artists/lone-riders.jpg",
+        "genre": "Indierock",
+        "instruments": ["Gitaar", "Drums", "Bass"],
+        "recordLabel": {
+          "id": "LABEL-318",
+          "name": "Rodeo Records",
+          "labelLogoUrl": "https://example.com/images/labels/rodeo-records-logo.jpg",
+          "foundedYear": 2016,
+          "founder": "Connor Thompson",
+          "headquarters": "Dallas, Texas"
+        }
+      },
+      {
+        "id": "ART-0527",
+        "name": "The Dusty Rebels",
+        "description": "Een indierockband uit Houston, Texas, bekend om hun ruige gitaarriffs en authentieke, emotionele teksten die de ziel beroeren.",
+        "age": 45,
+        "isActive": true,
+        "birthDate": "1979-07-10",
+        "imageUrl": "https://example.com/images/artists/dusty-rebels.jpg",
+        "genre": "Indierock",
+        "instruments": ["Gitaar", "Drums", "Bass"],
+        "recordLabel": {
+          "id": "LABEL-389",
+          "name": "Texas Tunes Records",
+          "labelLogoUrl": "https://example.com/images/labels/texas-tunes-logo.jpg",
+          "foundedYear": 2018,
+          "founder": "Sarah Parker",
+          "headquarters": "Houston, Texas"
+        }
+      }
+    ]
+  
